@@ -41,8 +41,6 @@ I enjoy working with data, finding meaningful insights, building ML projects, so
 ### 🤖 Machine Learning
 - Scikit-learn
 - XGBoost
-- LightGBM
-- CatBoost
 - SciPy
 - Statsmodels
 - SMOTE
